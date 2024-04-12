@@ -1,4 +1,4 @@
-# Sort the Food Items
+# Sort The Food Items
 
 Complete the implementation of the sortItems() method in the Java program below so that the strings are sorted in alphabetical order when inReverse = false (i.e. ascending order).
 
